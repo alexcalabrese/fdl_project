@@ -1,0 +1,8 @@
+pycocotools
+seaborn
+wordcloud
+seaborn
+nltk
+keras
+tensorflow
+keras-preprocessing
