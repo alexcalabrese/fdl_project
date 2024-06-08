@@ -5,8 +5,8 @@ import json
 
 class DatasetLoader:
 
-    def __init__(self):
-        self.data = self.load_data()
+    def __init__(self, folder_name: str = "coco"):
+        self.data = self.load_data(folder_name)
 
     def load_data(self, folder_name: str = "coco"):
         print("Loading data..")
