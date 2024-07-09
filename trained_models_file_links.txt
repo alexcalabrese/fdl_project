@@ -1,0 +1,3 @@
+Transformer 2x filter : https://drive.google.com/file/d/1-5cK61QxyD9pQdFoXh45Z0D2S9kseslQ/view?usp=drive_link
+
+DATAAUG_2X_CNN + imruvements: https://drive.google.com/file/d/1-3DHChmIWzlofFX8ZDK5PpNQxYmBu6xn/view?usp=sharing
