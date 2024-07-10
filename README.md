@@ -1,7 +1,15 @@
 # Image Captioning on the COCO Dataset
 This project implements an image captioning system using deep learning techniques on the COCO (Common Objects in Context) dataset.
 
-![Model (B0) Caption Example](model-img_example.png)
+
+<div align="center">
+      <img
+        src="model-img_example.png"
+        width="350"
+      />
+</div>
+
+
 Predicted Caption: the man is on his surfboard on the waves in the ocean
 
 ## Table of Contents
