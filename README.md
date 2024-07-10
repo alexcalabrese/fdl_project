@@ -1,7 +1,8 @@
 # Image Captioning on the COCO Dataset
 This project implements an image captioning system using deep learning techniques on the COCO (Common Objects in Context) dataset.
 
-![Model Performance Comparison](model-comparison.png)
+![Model (B0) Caption Example](model-img_example.png)
+Predicted Caption: the man is on his surfboard on the waves in the ocean
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -53,6 +54,9 @@ We experimented with several model architectures:
    - With 2x num_heads
 
 ## Results
+
+![Model Performance Comparison](model-comparison.png)
+
 - Transformer-based models outperformed LSTM-based models
 - EfficientNet (both B0 and B7) outperformed custom CNN architectures
 - EfficientNetB0 achieved the best performance considering the trade-off between accuracy and training time
