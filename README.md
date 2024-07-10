@@ -1,7 +1,7 @@
 # Image Captioning on the COCO Dataset
 This project implements an image captioning system using deep learning techniques on the COCO (Common Objects in Context) dataset.
 
-![Model Performance Comparison](model-comparison.svg)
+![Model Performance Comparison](model-comparison.png)
 
 ## Table of Contents
 1. [Introduction](#introduction)
