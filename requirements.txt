@@ -6,3 +6,5 @@ nltk
 keras
 tensorflow
 keras-preprocessing
+rouge-score
+keras-nlp
