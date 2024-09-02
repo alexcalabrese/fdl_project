@@ -4,7 +4,7 @@ This project implements an image captioning system using deep learning technique
 
 <div align="center">
       <img
-        src="architecture_image.png"
+        src="architecture_image_improvements.png"
         width="950"
       />
 </div>
