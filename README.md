@@ -4,13 +4,10 @@ This project implements an image captioning system using deep learning technique
 
 <div align="center">
       <img
-        src="model-img_example.png"
+        src="architecture_image.png"
         width="350"
       />
 </div>
-
-
-Predicted Caption: the man is on his surfboard on the waves in the ocean
 
 ## Table of Contents
 1. [Introduction](#introduction)
