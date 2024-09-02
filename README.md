@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c06de65b-ac3a-46e6-946c-0dd8b0bd537d)# Image Captioning on the COCO Dataset
+# Image Captioning on the COCO Dataset
 This project implements an image captioning system using deep learning techniques on the COCO (Common Objects in Context) dataset.
 
 
